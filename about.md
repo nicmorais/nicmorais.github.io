@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About/Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Nicolas Morais, Brasil
 
-### More Information
+### Contact me / Contato
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[nmorais.st@gmail.com](mailto:nmorais.st@gmail.com)
