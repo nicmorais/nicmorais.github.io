@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Sobre a câmera Intelbras Mibo IC3
@@ -15,7 +14,7 @@ Para assistir à transmissão no VLC, basta ir na seguinte opção:
 ![Image](https://i.imgur.com/RC6SqUo.png)
 
 E digitar o seguinte:
-` rtsp://admin:<SENHA>@<IP da camera>`
+rtsp://admin:<SENHA>@<IP da camera>
 
 Exemplo: se o IP da sua câmera é `192.168.1.137`, e a senha (está escrito em baixo do aparelho) for "WJUGCN", você deverá digitar:
 `rtsp://admin:WJUGCN@192.168.1.137`
@@ -29,7 +28,10 @@ Um problema que achei nessa câmera é que ela grava os arquivos no cartão de u
 Esses arquivos, ainda que tenham a extensão mp4, não são compatíveis com o VLC. Vale ressaltar também que todos esses arquivos ocupam o cartão de memória inteiro, mesmo que apenas alguns minutos ou segundos de vídeo tenham sido de fato gravados.
 
 ## Abrindo a câmera
-https://imgur.com/a/Kf6RrMa
+[![Camera Aberta](https://i.imgur.com/Gttb1jU.png)](https://imgur.com/a/Kf6RrMa)
+
+
+### Clique na imagem para abrir o álbum de fotos
 Dentro do aparelho há 4 pinos com o terminal serial (o UART), com baud rate de 115200. 
 
 Há vários comandos disponíveis no terminal, no entanto, a maioria apenas retorna um erro quando executados. Comandos simples, como por exemplo `ls` não estão disponíveis. 
@@ -38,6 +40,7 @@ Outro fato estranho é que também não consegui achar o chip de RAM.
 ### Bootlog:
 
 [Pastebin](https://pastebin.com/W2fcXd5P)
+
 Note na linha 21 que o sistema procura um arquivo chamado "ezviz.dav" no cartão de memória. Como não o encontra, continua a iniciar normalmente.
 É provavel que tal arquivo corresponda ao firmware para atualizar o sistema.
 ## Firmware
