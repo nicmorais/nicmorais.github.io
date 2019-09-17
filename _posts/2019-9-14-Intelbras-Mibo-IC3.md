@@ -35,17 +35,22 @@ Esses arquivos, ainda que tenham a extensão mp4, não são compatíveis com o V
 Dentro do aparelho há 4 pinos com o terminal serial (o UART), com baud rate de 115200. 
 
 Há vários comandos disponíveis no terminal, no entanto, a maioria apenas retorna um erro quando executados. Comandos simples, como por exemplo `ls` não estão disponíveis. 
+
 Não consegui achar qual processador é o dela, talvez seja ARM
+
 Outro fato estranho é que também não consegui achar o chip de RAM.
 ### Bootlog:
 
 [Pastebin](https://pastebin.com/W2fcXd5P)
 
 Note na linha 21 que o sistema procura um arquivo chamado "ezviz.dav" no cartão de memória. Como não o encontra, continua a iniciar normalmente.
+
 É provavel que tal arquivo corresponda ao firmware para atualizar o sistema.
 ## Firmware
 Com um leitor de memórias SPI, pude fazer um dump da ROM da câmera, que depois extraí com o binwalk. 
-Clique [aqui]() para baixar.
+Clique [aqui](http://www.mediafire.com/file/sarv0etwyzs6hja/intelbras-mibo-dump.bin/file) para baixar.
+
 Atenção: se você gravar esse arquivo na câmera (com um gravador SPI) lembre-se de dar um reset no aparelho, já que a câmera estará configurada para conectar na minha rede de wifi.
+
 Abaixo estão os arquivos encontrados após a extração:
 ![Image](https://i.imgur.com/VtYC5XK.png)
