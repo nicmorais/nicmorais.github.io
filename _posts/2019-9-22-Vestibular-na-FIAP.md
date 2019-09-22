@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sobre meu vestibular na FIAP
+title: Meu vestibular na FIAP
 ---
 
 No dia 21 de Setembro de 2019, fiz meu vestibular na FIAP. Como não havia encontrado quase ninguém falando sobre esse vestibular na internet, resolvi escrevi esse artigo para ajudar os próximos candidatos.
