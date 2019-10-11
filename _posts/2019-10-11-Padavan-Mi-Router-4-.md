@@ -21,8 +21,9 @@ Para substituir o Bootloader de fábrica, o Uboot, pelo Breed será preciso conf
 Se você usa Linux, terá de usar o tftp na linha de comando. Siga [esse](http://priede.bf.lu.lv/ftp/pub/OS/ruuteri/Lynksys/WRT54G/tftp.htm#linuxbsd) tutorial, colocando o uboot.bin na pasta `/var/lib/tftpboot`
 
 ### Arquivos
-Breed Bootloader: Clique [aqui](https://breed.hackpascal.net/breed-mt7621-xiaomi-r3g.bin) para baixar o arquivo. Renomeie para `uboot.bin`
-Padavan: Clique [aqui]() para baixar o arquivo. Você também pode compilar o Padavan por conta própria, e depois gravar o arquivo que você compilou para gravar no roteador. Dá na mesma, mas baixar pré-compilado é bem mais rápido.
+**Breed Bootloader**: Clique [aqui](https://breed.hackpascal.net/breed-mt7621-xiaomi-r3g.bin) para baixar o arquivo. Renomeie para `uboot.bin`
+
+**Padavan**: Clique [aqui](https://www.mediafire.com/file/f4pmypmwnefla6o/MI-R3G_3.4.3.9L-100.trx/file) para baixar o arquivo. Você também pode compilar o Padavan por conta própria, e depois gravar o arquivo que você compilou para gravar no roteador. Dá na mesma, mas baixar pré-compilado é bem mais rápido.
 
 Configure seu IP como fixo em `192.168.31.33`, e coloque o tftp rodando nesse mesmo IP.
 ## 3. Conectando o UART
