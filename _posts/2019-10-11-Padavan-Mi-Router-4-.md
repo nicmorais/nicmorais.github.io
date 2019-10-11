@@ -7,6 +7,10 @@ Nesse artigo mostrarei como instalar o firmware [Padavan](https://bitbucket.org/
 
 ![Image](https://i.imgur.com/ZKHu5u3.jpg)
 
+Tentei também instalar o [Pandorabox](https://downloads.pangubox.com/pandorabox/), um Openwrt com drivers proprietários. No entanto, o boot não terminava.
+
+Esse aparelho tem o mesmo processador do Mi R3G, e os arquivos que iremos usar são para esse aparelho.
+
 ## 1. Abrindo o aparelho
 Na parte de baixo há um selo, onde você deve furar o adesivo para poder retirar um parafuso. Depois disso, basta retirar a tampa de baixo, destravando-a da parte superior.
 ![Aparelho Aberto](https://i.imgur.com/jL15axD.jpg)
@@ -75,9 +79,10 @@ Network started on eth0, inet addr 192.168.1.1, netmask 255.255.255.0
 Press any key to interrupt autoboot ... 0
 ```
 Nesse momento, aperte qualquer tecla no teclado para parar a inicialização automática. Você verá então o seguinte:
-```
-breed>
-```
+
+`breed>
+`
+
 Nesse momento o boot parou, e você tem acesso ao terminal do Breed. Abra seu navegador e digite `192.168.1.1`. Você verá o seguinte:
 
 ![Breed Homepage](https://user-images.githubusercontent.com/20933693/64078899-fea74500-ccb6-11e9-9394-67e2d6b33f42.png)
@@ -93,4 +98,12 @@ E carregue o arquivo `MI-R3G_3.4.3.9L-100.trx`. Não será preciso mudar nenhuma
 ## Pronto!
 Feito isso, você poderá usar livremente o Padavan. Ou, se você achou complexo demais, me envie um e-mail: nmorais.st@gmail.com
 
+A interface estará, por padrão em russo. No entando, há uma opção para mudar o idioma e deixar em inglês.
+
 ![Padavan Homepage](https://i.imgur.com/Q9XN7zJ.png)
+
+
+## Portas trocadas
+Um problema nessa instalação é que a porta WAN fica trocada com uma porta LAN, como mostra a imagem. Funcionam normalmente, inclusive em gigabit, mas ficam trocadas.
+
+![Portas](https://i.imgur.com/z4zTNQp.png)
