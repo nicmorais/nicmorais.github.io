@@ -14,7 +14,7 @@ Para assistir à transmissão no VLC, basta ir na seguinte opção:
 ![Image](https://i.imgur.com/RC6SqUo.png)
 
 E digitar o seguinte:
-rtsp://admin:<SENHA>@<IP da camera>
+`rtsp://admin:<SENHA>@<IP da camera>`
 
 Exemplo: se o IP da sua câmera é `192.168.1.137`, e a senha (está escrito em baixo do aparelho) for "WJUGCN", você deverá digitar:
 `rtsp://admin:WJUGCN@192.168.1.137`
