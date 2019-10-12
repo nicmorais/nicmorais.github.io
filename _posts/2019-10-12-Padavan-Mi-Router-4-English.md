@@ -12,7 +12,7 @@ I've tried to install [Pandorabox](https://downloads.pangubox.com/pandorabox/) a
 This router and Mi R3G have the same SoC, and the files we are going to flash were made for the other router.
 
 ## 1. Disassembling the router
-Under the device there's a sticker, where you must open a hole in order to remove a screw that's under it. Then, just the bottom cover.
+Under the device there's a sticker, where you must open a hole in order to remove a screw that's under it. Then, just take off the bottom cover.
 
 ![Aparelho Aberto](https://i.imgur.com/jL15axD.jpg)
 
