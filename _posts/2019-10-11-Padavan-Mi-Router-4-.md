@@ -94,12 +94,12 @@ Feito isso, vá na seguinte opção:
 
 ![https://i.imgur.com/28pq86W.png](https://i.imgur.com/28pq86W.png)
 
-E carregue o arquivo `MI-R3G_3.4.3.9L-100.trx`. Não será preciso mudar nenhuma configuração, apenas carregue o arquivo e confirme a gravação.
+E carregue o arquivo `MI-R3G_3.4.3.9L-100.trx` (clique [aqui](https://www.mediafire.com/file/f4pmypmwnefla6o/MI-R3G_3.4.3.9L-100.trx/file) para baixar. Não será preciso mudar nenhuma configuração, apenas carregue o arquivo e confirme a gravação.
 
 ## Pronto!
 Feito isso, você poderá usar livremente o Padavan. Ou, se você achou complexo demais, me envie um e-mail: nmorais.st@gmail.com
 
-A interface estará, por padrão em russo. No entando, há uma opção para mudar o idioma e deixar em inglês.
+A interface estará, por padrão, em russo. No entanto, há uma opção para mudar o idioma e deixar em inglês: Administration > Miscellaneous > Select WebUI Language
 
 ![Padavan Homepage](https://i.imgur.com/Q9XN7zJ.png)
 
