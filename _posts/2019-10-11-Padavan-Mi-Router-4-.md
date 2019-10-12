@@ -23,7 +23,7 @@ Se você usa Linux, terá de usar o tftp na linha de comando. Siga [esse](http:/
 ### Arquivos
 **Breed Bootloader**: Clique [aqui](https://breed.hackpascal.net/breed-mt7621-xiaomi-r3g.bin) para baixar o arquivo. Renomeie para `uboot.bin`
 
-**Padavan**: Clique [aqui](https://www.mediafire.com/file/f4pmypmwnefla6o/MI-R3G_3.4.3.9L-100.trx/file) para baixar o arquivo. Você também pode compilar o Padavan por conta própria, e depois gravar o arquivo que você compilou para gravar no roteador. Dá na mesma, mas baixar pré-compilado é bem mais rápido.
+**Padavan**: Clique [aqui](https://www.mediafire.com/file/xhimniefjidm7cp/MI-R3G_3.4.3.9L-100.trx/file) para baixar o arquivo. Você também pode compilar o Padavan por conta própria, e depois gravar o arquivo que você compilou para gravar no roteador. Dá na mesma, mas baixar pré-compilado é bem mais rápido.
 
 Configure seu IP como fixo em `192.168.31.33`, e coloque o tftp rodando nesse mesmo IP.
 ## 3. Conectando o UART
@@ -99,9 +99,9 @@ E carregue o arquivo `MI-R3G_3.4.3.9L-100.trx` (clique [aqui](https://www.mediaf
 ## Pronto!
 Feito isso, você poderá usar livremente o Padavan. Ou, se você achou complexo demais, me envie um e-mail: nmorais.st@gmail.com
 
-A interface estará, por padrão, em russo. No entanto, há uma opção para mudar o idioma e deixar em inglês: Administration > Miscellaneous > Select WebUI Language
+A interface estará, por padrão, em inglês. No entanto, há uma opção para mudar o idioma e deixar em português: Administration > Miscellaneous > Select WebUI Language
 
-![Padavan Homepage](https://i.imgur.com/Q9XN7zJ.png)
+![Padavan Homepage](https://i.imgur.com/EhncuV8.png)
 
 
 ## Portas trocadas
