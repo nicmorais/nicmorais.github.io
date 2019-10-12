@@ -101,12 +101,11 @@ Click this option:
 
 ![https://i.imgur.com/28pq86W.png](https://i.imgur.com/28pq86W.png)
 
-And load the `MI-R3G_3.4.3.9L-100.trx` file (click [here](https://www.mediafire.com/file/f4pmypmwnefla6o/MI-R3G_3.4.3.9L-100.trx/file) to download it. 
+And load the `MI-R3G_3.4.3.9L-100.trx` file (click [here](hhttps://www.mediafire.com/file/xhimniefjidm7cp/MI-R3G_3.4.3.9L-100.trx/file) to download it. 
 
 ## Done!
 And now your router runs Padavan! Do you think this is too complex? e-mail me: nmorais.st@gmail.com
 
-The web interface is, by default, in russian. However, you can change it: go to Administration > Miscellaneous > Select WebUI Language
 
 
 ![Padavan Homepage](https://i.imgur.com/Q9XN7zJ.png)
