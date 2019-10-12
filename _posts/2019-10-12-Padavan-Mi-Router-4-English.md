@@ -25,7 +25,7 @@ If you run Linux, follow [this](http://priede.bf.lu.lv/ftp/pub/OS/ruuteri/Lynksy
 ### Arquivos
 **Breed Bootloader**: Click [here](https://breed.hackpascal.net/breed-mt7621-xiaomi-r3g.bin) to download the file. Rename it to `uboot.bin`
 
-**Padavan**: Click [here](https://www.mediafire.com/file/f4pmypmwnefla6o/MI-R3G_3.4.3.9L-100.trx/file) to download the file. You can also build it by yourself with [Prometheus](http://prometheus.freize.net/), but downloading it from that link is way faster.
+**Padavan**: Click [here](https://www.mediafire.com/file/xhimniefjidm7cp/MI-R3G_3.4.3.9L-100.trx/file) to download the file. You can also build it by yourself with [Prometheus](http://prometheus.freize.net/), but downloading it from that link is way faster.
 
 Set your IP address as `192.168.31.33`, and set the TFTP server to run in this IP.
 
@@ -101,7 +101,7 @@ Click this option:
 
 ![https://i.imgur.com/28pq86W.png](https://i.imgur.com/28pq86W.png)
 
-And load the `MI-R3G_3.4.3.9L-100.trx` file (click [here](hhttps://www.mediafire.com/file/xhimniefjidm7cp/MI-R3G_3.4.3.9L-100.trx/file) to download it. 
+And load the `MI-R3G_3.4.3.9L-100.trx` file (click [here](https://www.mediafire.com/file/xhimniefjidm7cp/MI-R3G_3.4.3.9L-100.trx/file) to download it. 
 
 ## Done!
 And now your router runs Padavan! Do you think this is too complex? e-mail me: nmorais.st@gmail.com
