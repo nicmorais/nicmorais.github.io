@@ -94,7 +94,7 @@ Feito isso, vá na seguinte opção:
 
 ![https://i.imgur.com/28pq86W.png](https://i.imgur.com/28pq86W.png)
 
-E carregue o arquivo `MI-R3G_3.4.3.9L-100.trx` (clique [aqui](https://www.mediafire.com/file/f4pmypmwnefla6o/MI-R3G_3.4.3.9L-100.trx/file) para baixar. Não será preciso mudar nenhuma configuração, apenas carregue o arquivo e confirme a gravação.
+E carregue o arquivo `MI-R3G_3.4.3.9L-100.trx` (clique [aqui](https://www.mediafire.com/file/xhimniefjidm7cp/MI-R3G_3.4.3.9L-100.trx/file) para baixar. Não será preciso mudar nenhuma configuração, apenas carregue o arquivo e confirme a gravação.
 
 ## Pronto!
 Feito isso, você poderá usar livremente o Padavan. Ou, se você achou complexo demais, me envie um e-mail: nmorais.st@gmail.com
